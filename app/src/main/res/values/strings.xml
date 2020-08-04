@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TaskTwo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Fragment 1</string>
+    <string name="hello_blank_fragment2">Fragment 2</string>
+    <string name="hello_blank_fragment3">Hello blank fragment</string>
+    <string name="launch_act_two">Launch Activity Two</string>
+    <string name="increment_num">+</string>
+    <string name="decrement_num">-</string>
+    <string name="lifecycle_label">Current Life Cycle State</string>
+    <string name="lifecycle_stat"></string>
 </resources>
